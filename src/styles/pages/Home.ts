@@ -12,7 +12,7 @@ export const Container = styled.div`
   background-color: ${props => props.theme.colors.tangerine};
 
   main {
-    width: clamp(400px, 50%, 1000px);
+    width: clamp(400px, 50%, 700px);
 
     display: flex;
     align-items: center;
