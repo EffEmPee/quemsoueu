@@ -1,8 +1,11 @@
 const theme = {
   colors: {
-    background: '#121214',
-    text: '#e1e1e6',
-    primary: '#8257e6'
+    tangerine: '#ffa69e',
+    eggWhite: '#faf3dd',
+    aeroBlue: '#b8f2e6',
+    powderBlue: '#aed9e0',
+    romanSilver: '#868B96',
+    blackCoral: '#5e6472'
   }
 };
 
